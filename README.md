@@ -53,7 +53,7 @@ This project focuses on building a predictive model for credit card default risk
 
 ## 📌 Note
 
-The complete **source code**, **cleaned dataset**, and **detailed project report** are available in a **private repository**.  
+The complete **source code** and **detailed project report** are available in a **private repository**.  
 📩 **If you would like access for review or reference, feel free to contact me directly.**
 
 
