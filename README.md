@@ -1,7 +1,5 @@
 # 💳 Credit Card Default Risk Prediction
 
-A machine learning project to predict whether a credit card user will default on their next payment, based on financial and demographic data.
-
 ---
 
 ## 📌 Project Overview
